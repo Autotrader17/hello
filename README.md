@@ -2,8 +2,8 @@ import requests
 import time
 
 # Angel Broking API credentials
-API_KEY = 'YOUR_API_KEY'
-API_SECRET = 'YOUR_API_SECRET'
+API_KEY = 'hCzVZFFS'
+API_SECRET = '5ec9fb90-2b07-4329-9441-0ff0b868610c'
 API_BASE_URL = 'https://smartapi.angelbroking.com'
 
 # Create headers with API key
